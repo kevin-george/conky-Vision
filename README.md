@@ -1,3 +1,9 @@
+###Vision 2.0
+I have modified this lovely theme to display two time zones and their weather.
+Follow all the steps mentioned by the original author and use .conkyrc\_'yourcity' instead of .conkyrc
+The script startconky.sh can be used at startup.
+
+
 ###Vision :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
 A theme for [conky](https://github.com/brndnmtthws/conky) powered by [OpenWeatherMap](http://openweathermap.org/).
